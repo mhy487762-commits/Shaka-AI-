@@ -1,0 +1,6 @@
+{
+  "name": "Project Shaka — JARVIS-Style Windows AI Assistant",
+  "description": "Multilingual voice-activated Windows AI assistant and JARVIS-inspired HUD interface with offline speech recognition, PC automation, and local Python server integration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
